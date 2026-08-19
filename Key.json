@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "testaktif",
+      "password": "123456",
+      "device_id": "DEVICE-001",
+      "expired": "2026-12-31",
+      "active": true
+    }
+  ]
+}
