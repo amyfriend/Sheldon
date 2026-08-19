@@ -3,7 +3,6 @@
     "id": "8b5234bfcace73f4",
     "username": "testaktif",
     "password": "123456",
-    "expired": "2026-12-31",
-    "active": true
+    "expiresAt": "2026-12-31"
   }
 ]
