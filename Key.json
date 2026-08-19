@@ -1,9 +1,9 @@
 [
-    {
-      "id": "8b5234bfcace73f4",
-    "username": "user1",
-    "password": "pass1",
-      "expired": "2026-12-31",
-      "active": true
-    }
-  ]
+  {
+    "username": "testaktif",
+    "password": "123456",
+    "device_id": "8b5234bfcace73f4",
+    "expired": "2026-12-31",
+    "active": true
+  }
+]
