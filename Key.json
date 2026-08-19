@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
       "username": "testaktif",
       "password": "123456",
@@ -8,4 +7,3 @@
       "active": true
     }
   ]
-}
